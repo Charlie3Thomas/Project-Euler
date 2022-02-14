@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "422fcbee-15c6-4ca4-b891-a2827dc33a7e": {
+      "ProjectGuid": "422fcbee-15c6-4ca4-b891-a2827dc33a7e",
+      "DisplayName": "Largest palindrome product",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
