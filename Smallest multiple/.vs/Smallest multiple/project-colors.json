@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4466ceaf-9002-471d-857a-3d7d3c8f94f2": {
+      "ProjectGuid": "4466ceaf-9002-471d-857a-3d7d3c8f94f2",
+      "DisplayName": "Smallest multiple",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
