@@ -1,0 +1,3 @@
+﻿  Summation of primes.cpp
+D:\Code\Project-Euler\Summation of primes\Summation of primes\Summation of primes.cpp(33,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Summation of primes.vcxproj -> D:\Code\Project-Euler\Summation of primes\x64\Debug\Summation of primes.exe

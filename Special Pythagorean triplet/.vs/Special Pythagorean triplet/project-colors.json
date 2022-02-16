@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6ed6b37-004d-4950-a470-48c33f997fa3": {
+      "ProjectGuid": "a6ed6b37-004d-4950-a470-48c33f997fa3",
+      "DisplayName": "Special Pythagorean triplet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

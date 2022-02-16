@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d06a7cea-3b27-493a-ae15-348317d768bb": {
+      "ProjectGuid": "d06a7cea-3b27-493a-ae15-348317d768bb",
+      "DisplayName": "Largest Prime Factor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

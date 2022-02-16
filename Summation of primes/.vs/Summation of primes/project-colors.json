@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f02b6331-75ba-4858-9471-05e9c6831282": {
+      "ProjectGuid": "f02b6331-75ba-4858-9471-05e9c6831282",
+      "DisplayName": "Summation of primes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
